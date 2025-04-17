@@ -1,0 +1,118 @@
+# General
+.DS_Store
+*.log
+*.sqlite
+*.sql
+*.bak
+*.swp
+*~
+*.orig
+*.pyc
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.venv
+venv/
+.env.local
+.env.development
+.env.test
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+
+# Python
+*.py[cod]
+__pycache__/
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.json
+*.xlsx
+*.xls
+*.parquet
+*.feather
+*.hdf5
+*.h5
+*.pkl
+*.pickle
+*.db
+*.sqlite
+*.tsv
+*.gz
+*.zip
+*.tar
+*.7z
+
+# Large files and directories (comment these out if you want to track data)
+data/raw/
+data/interim/
+data/processed/
+data/external/
+*.npy
+*.npz
+
+# ML model files
+*.model
+*.pth
+*.pt
+*.hdf5
+*.joblib
+*.tflite
+*.onnx
+
+# Visualization outputs
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.svg
+*.eps
+
+# Documentation
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Virtual environments
+venv/
+ENV/
+env/
+.benv/
+.venv/
+
+# System files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Project specific (add your own below)
+notebooks/
+experiments/
+results/
+models/
