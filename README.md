@@ -5,11 +5,11 @@ A data-driven study of gasoline, ethanol, and diesel trends in Brazil
 📌 Overview
 This project analyzes the national supply and demand trends of Brazil’s fuel market (2012–2024), focusing on:
 
-Gasoline
+⛽ Gasolina
 
-Ethanol (Hydrous & Anhydrous)
+🌱 Etanol
 
-Diesel
+🚛 Diesel
 
 Key questions addressed:
 
