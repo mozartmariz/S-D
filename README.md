@@ -6,7 +6,9 @@ A data-driven study of gasoline, ethanol, and diesel trends in Brazil
 This project analyzes the national supply and demand trends of Brazil’s fuel market (2012–2024), focusing on:
 
 Gasoline
+
 Ethanol (Hydrous & Anhydrous)
+
 Diesel
 
 Key questions addressed:
@@ -32,12 +34,15 @@ All data is publicly available from Brazil’s National Agency of Petroleum (ANP
 Data Collection:
 
 Automated CSV downloads via Python (requests + pandas).
+
 Geospatial aggregation (state → national-level trends).
 
 Key Metrics:
 
 Price Elasticity: Ethanol vs. gasoline demand correlation.
+
 Seasonality: Demand spikes during harvest/sugar-cane crushing periods.
 
 Tools Used:
+
 Python (pandas, matplotlib, statsmodels).
