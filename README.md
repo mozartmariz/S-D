@@ -33,16 +33,16 @@ All data is publicly available from Brazil’s National Agency of Petroleum (ANP
 
 Data Collection:
 
-Automated CSV downloads via Python (requests + pandas).
+    Automated CSV downloads via Python (requests + pandas).
 
-Geospatial aggregation (state → national-level trends).
+    Geospatial aggregation (state → national-level trends).
 
 Key Metrics:
 
-Price Elasticity: Ethanol vs. gasoline demand correlation.
+    Price Elasticity: Ethanol vs. gasoline demand correlation.
 
-Seasonality: Demand spikes during harvest/sugar-cane crushing periods.
+    Seasonality: Demand spikes during harvest/sugar-cane crushing periods.
 
 Tools Used:
 
-Python (pandas, matplotlib, statsmodels).
+    P   ython (pandas, matplotlib, statsmodels).
