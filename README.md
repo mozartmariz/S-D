@@ -1,6 +1,6 @@
-    Brazilian Fuel Market Analysis: Supply & Demand Dynamics
+Brazilian Fuel Market Analysis: Supply & Demand Dynamics
 
-    A data-driven study of gasoline, ethanol, and diesel trends in Brazil
+A data-driven study of gasoline, ethanol, and diesel trends in Brazil
 
 📌 Overview
       This project analyzes the national supply and demand trends of Brazil’s fuel market (2012–2024), focusing on:
@@ -45,4 +45,4 @@ Key Metrics:
 
 Tools Used:
 
-    P   ython (pandas, matplotlib, statsmodels).
+    Python (pandas, matplotlib, statsmodels).
