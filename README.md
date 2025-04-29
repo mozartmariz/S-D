@@ -5,9 +5,9 @@ A data-driven study of gasoline, ethanol, and diesel trends in Brazil
 📌 Overview
       This project analyzes the national supply and demand trends of Brazil’s fuel market (2012–2024), focusing on:
 
-            ⛽ Gasolina
+            ⛽ Gasoline
 
-            🌱 Etanol
+            🌱 Ethanol
 
             🚛 Diesel
 
@@ -15,9 +15,7 @@ Key questions addressed:
 
 ✔ How do ethanol and gasoline compete in Brazil’s flex-fuel market?
 
-✔ What drives seasonal fluctuations in fuel demand?
-
-✔ How do government policies (e.g., Petrobras pricing) impact supply?
+✔ What is the maximum storage for fuel in Brazil?
 
 📂 Data Sources
 
