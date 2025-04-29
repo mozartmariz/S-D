@@ -41,6 +41,8 @@ Key Metrics:
 
     Seasonality: Demand spikes during harvest/sugar-cane crushing periods.
 
+    Days on Hand: measures how long current inventory levels (in this study case, the maximum storage) will last based on the average daily demand, indicating the storage capacity's ability to meet projected demand over the coming days or months.
+
 Tools Used:
 
     Python (pandas, matplotlib, statsmodels).
