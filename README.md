@@ -40,6 +40,6 @@ Key Metrics:
 
 Tools Used:
 
-Python (pandas, matplotlib, statsmodels)
+ - Python (pandas, matplotlib, statsmodels)
 
-Power BI (Visualizations)
+ - Power BI (Visualizations)
