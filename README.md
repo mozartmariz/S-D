@@ -31,6 +31,7 @@ Data Collection:
   ✔Geospatial aggregation (state → national-level trends).
 
 Key Metrics:
+
   ✔ Price Elasticity: Correlation between ethanol and gasoline demand.
 
   ✔ Seasonality: Demand fluctuations during harvest/sugar-cane crushing periods.
