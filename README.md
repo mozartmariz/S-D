@@ -24,22 +24,21 @@ All data is publicly available from Brazil’s National Agency of Petroleum (ANP
   Demand Fuel sales by state: https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/vendas-de-derivados-de-petroleo-e-biocombustiveis
 
 🔍 Methodology
-
 Data Collection:
 
-    Automated CSV downloads via Python (requests + pandas).
+  ✔Automated CSV downloads using Python (requests + pandas).
 
-    Geospatial aggregation (state → national-level trends).
+  ✔Geospatial aggregation (state → national-level trends).
 
 Key Metrics:
+  ✔ Price Elasticity: Correlation between ethanol and gasoline demand.
 
-    Price Elasticity: Ethanol vs. gasoline demand correlation.
+  ✔ Seasonality: Demand fluctuations during harvest/sugar-cane crushing periods.
 
-    Seasonality: Demand spikes during harvest/sugar-cane crushing periods.
-
-    Days on Hand: measures how long current inventory levels (in this study case, the maximum storage) will last based on the average daily demand, indicating the storage capacity's ability to meet projected demand over the coming days or months.
+  ✔ Days on Hand: Estimates how long current inventory levels can meet demand based on average daily consumption.
 
 Tools Used:
 
-    Python (pandas, matplotlib, statsmodels).
-    PowerBI>
+Python (pandas, matplotlib, statsmodels)
+
+Power BI (Visualizations)
